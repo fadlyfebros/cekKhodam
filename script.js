@@ -135,7 +135,7 @@ function generateKhodamName() {
           {
             headers: {
               "Content-Type": "application/json",
-              Authorization: "Bearer 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",
+              Authorization: "Bearer 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",
             },
           }
         )
